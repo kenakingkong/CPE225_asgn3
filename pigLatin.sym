@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	START             3000
+//	INPUT             3006
+//	OUTPUT            3014
+//	End_a             3022
+//	End_y             3023
+//	Newline           3024
+//	PROMPT            3025
+//	RESULT            3034
+//	WORD              3045
+
